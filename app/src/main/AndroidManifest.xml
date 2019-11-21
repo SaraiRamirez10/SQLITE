@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DetalleArticulos"></activity>
+        <activity android:name=".consultaSpinner"></activity>
+        <activity android:name=".DetalleArticulos" />
         <activity android:name=".ListViewArticulos" />
         <activity
             android:name=".MainActivity"
